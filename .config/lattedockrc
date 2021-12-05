@@ -1,3 +1,22 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAboAAAACAQAAAQAAAAAAAAAAAAAAAGf/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAwAAAAAEAAAAAAAAD6AAAAABn
+
+[ConfigDialog]
+DP-0 DVI-I-1 Height 1920x1080=525
+DP-0 DVI-I-1 Width 1920x1080=624
+
+[FileDialogSize]
+DP-0 DVI-I-1 Height 1920x1080=662
+DP-0 DVI-I-1 Width 1920x1080=980
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=darkgreyprint.jpg,file:///usr/share/plasma/shells/org.kde.latte.shell/contents/images/canvas/darkgreyprint.jpg
+Recent URLs[$e]=file:///usr/share/plasma/shells/org.kde.latte.shell/contents/images/canvas/
+detailViewIconSize=16
+
 [LatteSettingsDialog]
 downloadWindowSize=980,600
 windowSize=1100,750
@@ -15,6 +34,10 @@ columnWidths=59,256,142,135,131
 sortColumn=2
 sortOrder=0
 windowSize=980,630
+
+[Open-with settings]
+CompletionMode=1
+History=dolp,sett
 
 [PlasmaThemeExtended]
 outlineWidth=1

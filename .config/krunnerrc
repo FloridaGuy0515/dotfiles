@@ -1,5 +1,6 @@
 [General]
 FreeFloating=true
+HistoryEnabled=false
 
 [PlasmaRunnerManager]
 migrated=true
@@ -11,25 +12,25 @@ Kill RunnerEnabled=true
 PowerDevilEnabled=true
 Spell CheckerEnabled=true
 appstreamEnabled=true
-baloosearchEnabled=true
-bookmarksEnabled=true
-browserhistoryEnabled=true
-browsertabsEnabled=true
+baloosearchEnabled=false
+bookmarksEnabled=false
+browserhistoryEnabled=false
+browsertabsEnabled=false
 calculatorEnabled=true
-desktopsessionsEnabled=true
+desktopsessionsEnabled=false
 katesessionsEnabled=true
-konsoleprofilesEnabled=true
+konsoleprofilesEnabled=false
 krunner_systemsettingsEnabled=true
 kwinEnabled=true
 locationsEnabled=true
 org.kde.activities2Enabled=true
-org.kde.datetimeEnabled=true
+org.kde.datetimeEnabled=false
 org.kde.windowedwidgetsEnabled=true
 placesEnabled=true
 plasma-desktopEnabled=true
 recentdocumentsEnabled=true
 servicesEnabled=true
-shellEnabled=true
+shellEnabled=false
 unitconverterEnabled=true
 webshortcutsEnabled=true
 windowsEnabled=true

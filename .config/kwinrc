@@ -14,17 +14,33 @@ Id_1=3d7d08d8-9dd8-4847-800b-504813fd030f
 Number=1
 Rows=1
 
+[Effect-Blur]
+BlurStrength=10
+
+[Effect-PresentWindows]
+BorderActivateAll=9
+
 [Effect-Wobbly]
 Drag=85
 ResizeWobble=false
 Stiffness=10
 WobblynessLevel=1
 
+[ElectricBorders]
+BottomLeft=ApplicationLauncher
+
 [Plugins]
 blurEnabled=true
 contrastEnabled=false
 kwin4_effect_dimscreenEnabled=true
+lattewindowcolorsEnabled=true
+minimizeallEnabled=false
+synchronizeskipswitcherEnabled=false
+videowallEnabled=false
 wobblywindowsEnabled=true
+
+[TabBox]
+BorderActivate=9
 
 [Windows]
 BorderlessMaximizedWindows=true
